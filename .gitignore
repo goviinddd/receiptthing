@@ -1,0 +1,16 @@
+# Data and Models (Too Large for GitHub)
+data/
+models/
+runs/ # YOLO training results folder
+
+# Environment
+venv/
+.env
+
+# PyTorch/CUDA files
+__pycache__/
+*.pt
+*.bin
+*.pth
+*.safetensors
+*.index

@@ -1,0 +1,26 @@
+# --- Base ML Framework ---
+torch
+torchvision
+torchaudio
+accelerate
+datasets
+scikit-learn
+PyYAML
+tqdm
+
+# --- Vision and Transformers ---
+ultralytics
+transformers
+sentencepiece
+Pillow
+
+# --- OCR and Utilities ---
+paddleocr
+paddlepaddle-gpu==2.6.1 # Use this version to ensure API compatibility
+opencv-python
+pdf2image
+python-dotenv
+
+# --- GUI ---
+streamlit
+pandas
