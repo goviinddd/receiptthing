@@ -1,0 +1,6 @@
+names:
+  0: PO_Number
+  1: Table_Zone
+path: /home/achu/pdfextraction/dataset/yolo_dataset
+train: images/train
+val: images/val

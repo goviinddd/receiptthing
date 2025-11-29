@@ -1,7 +1,4 @@
 # Data and Models (Too Large for GitHub)
-data/
-models/
-runs/ # YOLO training results folder
 
 # Environment
 venv/
